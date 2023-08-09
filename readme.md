@@ -2,7 +2,7 @@
 
 
 
-Sou estudante Análises de Dados na {Reprogrma} 2023
+Sou estudante Análises de Dados na {Reprograma} 2023
 
 
 
